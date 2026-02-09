@@ -19,7 +19,6 @@ Here is Franco in action, responding to requests in a... "direct" manner. He pos
 ### Main Dashboard
 The centralized control interface for monitoring sensors, weather, the calendar, and the LLMVision timeline at a glance.
 <br>
-<img src="Assets/Homepage.webp" width="800" alt="Home Assistant Dashboard">
 
 <br>
 
